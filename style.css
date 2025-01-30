@@ -24,6 +24,7 @@
 }
 .product-image img{ 
     max-width: 100%;
+    height: auto;
 }
 .product-info {
     margin-top: auto;
